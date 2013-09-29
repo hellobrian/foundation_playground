@@ -1,0 +1,9 @@
+== Foundation Practice
+
+Things I'm learning:
+
+* The Grid System
+
+* ...
+
+http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/foundation-for-beginners-the-grid-system/
